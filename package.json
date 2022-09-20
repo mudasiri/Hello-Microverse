@@ -1,0 +1,27 @@
+{
+  "name": "hello-microverse",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000H\u0000e\u0000l\u0000l\u0000o\u0000-\u0000M\u0000i\u0000c\u0000r\u0000o\u0000v\u0000e\u0000r\u0000s\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudasiri/Hello-Microverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudasiri/Hello-Microverse/issues"
+  },
+  "homepage": "https://github.com/mudasiri/Hello-Microverse#readme",
+  "devDependencies": {
+    "hint": "^2.0.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
